@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="22" started-at="2018-01-02T07:06:15Z" finished-at="2018-01-02T07:06:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="22" started-at="2018-01-02T07:06:15Z" finished-at="2018-01-02T07:06:15Z">
+      <class name="ispl.sample.AppTest">
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:ispl.sample.AppTest@7dc36524]" name="exampleOfTestNgMaven" duration-ms="0" started-at="2018-01-02T12:36:15Z" finished-at="2018-01-02T12:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- ispl.sample.AppTest -->
+      <class name="ispl.sample.AppSecondTest">
+        <test-method status="PASS" signature="oneMoreTest()[pri:0, instance:ispl.sample.AppSecondTest@27f674d]" name="oneMoreTest" duration-ms="8" started-at="2018-01-02T12:36:15Z" finished-at="2018-01-02T12:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneMoreTest -->
+      </class> <!-- ispl.sample.AppSecondTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
